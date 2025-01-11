@@ -245,7 +245,7 @@ spec:
 
             # Insert globals here, special handling so we can "tpl" these values and use eg: namespace in them
             - name: "PROMETHEUS_URL"
-              value: "prometheus.galesnet.com"
+              value: "https://prometheus.galesnet.com"
             - name: "SLACK_WEBHOOK_URL"
               value: "REPLACEME"
             - name: "SLACK_CHANNEL"
